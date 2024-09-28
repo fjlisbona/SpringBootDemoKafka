@@ -22,10 +22,10 @@ This project is a spring boot app that use Apache Kafka for the processing of re
 3.In folder Kafka: open the windows terminal.  
 4.Here are the kafka's commands to:  
         Commands  
-        -------------------------------------------------------------------------------------------------  
-        1.Start Zookeeper:  
+        -------------------------------------------------------------------------------------------------   
+        1.Start Zookeeper:    
         
-        .\bin\windows\zookeeper-server-start.bat .\config\zookeeper.properties  
+        .\bin\windows\zookeeper-server-start.bat .\config\zookeeper.properties   
         
         2.Start Kafka server:  
         .\bin\windows\kafka-server-start.bat .\config\server.properties  
