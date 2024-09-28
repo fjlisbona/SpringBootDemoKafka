@@ -23,7 +23,7 @@ This project is a spring boot app that use Apache Kafka for the processing of re
 4.Here are the kafka's commands to:  
         
         
-        Commands  
+        
         -------------------------------------------------------------------------------------------------   
         1.Start Zookeeper:    
         
