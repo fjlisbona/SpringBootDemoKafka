@@ -21,6 +21,8 @@ This project is a spring boot app that use Apache Kafka for the processing of re
 2.Extract it in c: (for windows users)  
 3.In folder Kafka: open the windows terminal.  
 4.Here are the kafka's commands to:  
+        
+        
         Commands  
         -------------------------------------------------------------------------------------------------   
         1.Start Zookeeper:    
@@ -50,6 +52,7 @@ This project is a spring boot app that use Apache Kafka for the processing of re
         
         .\bin\windows\kafka-console-producer.bat --broker-list {host}:9092 --topic {topic-name}  
         --------------------------------------------------------------------------------------------------  
+
   
 5.Execute the consumer project.  
 6.Execute the provider project.  
